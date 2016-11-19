@@ -1,0 +1,703 @@
+fileFormatVersion: 2
+guid: 4c5c25f568dbe4a46ae43f30db333b7c
+timeCreated: 1479378702
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: marcus_paladin_sword_0
+    21300002: marcus_paladin_sword_1
+    21300004: marcus_paladin_sword_2
+    21300006: marcus_paladin_sword_3
+    21300008: marcus_paladin_sword_4
+    21300010: marcus_paladin_sword_5
+    21300012: marcus_paladin_sword_6
+    21300014: marcus_paladin_sword_7
+    21300016: marcus_paladin_sword_8
+    21300018: marcus_paladin_sword_9
+    21300020: marcus_paladin_sword_10
+    21300022: marcus_paladin_sword_11
+    21300024: marcus_paladin_sword_12
+    21300026: marcus_paladin_sword_13
+    21300028: marcus_paladin_sword_14
+    21300030: marcus_paladin_sword_15
+    21300032: marcus_paladin_sword_16
+    21300034: marcus_paladin_sword_17
+    21300036: marcus_paladin_sword_18
+    21300038: marcus_paladin_sword_19
+    21300040: marcus_paladin_sword_20
+    21300042: marcus_paladin_sword_21
+    21300044: marcus_paladin_sword_22
+    21300046: marcus_paladin_sword_23
+    21300048: marcus_paladin_sword_24
+    21300050: marcus_paladin_sword_25
+    21300052: marcus_paladin_sword_26
+    21300054: marcus_paladin_sword_27
+    21300056: marcus_paladin_sword_28
+    21300058: marcus_paladin_sword_29
+    21300060: marcus_paladin_sword_30
+    21300062: marcus_paladin_sword_31
+    21300064: marcus_paladin_sword_32
+    21300066: marcus_paladin_sword_33
+    21300068: marcus_paladin_sword_34
+    21300070: marcus_paladin_sword_35
+    21300072: marcus_paladin_sword_36
+    21300074: marcus_paladin_sword_37
+    21300076: marcus_paladin_sword_38
+    21300078: marcus_paladin_sword_39
+    21300080: marcus_paladin_sword_40
+    21300082: marcus_paladin_sword_41
+    21300084: marcus_paladin_sword_42
+    21300086: marcus_paladin_sword_43
+    21300088: marcus_paladin_sword_44
+    21300090: marcus_paladin_sword_45
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: marcus_paladin_sword_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 403
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 402
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 402
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 403
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_4
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 389
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_5
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 391
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_6
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 392
+        width: 85
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 341
+        width: 73
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 342
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 338
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_10
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 338
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_11
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 321
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_12
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 307
+        width: 47
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_13
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 319
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 277
+        width: 76
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_15
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 285
+        width: 75
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_16
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 278
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_17
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 273
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_18
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 303
+        width: 28
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 269
+        width: 28
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_20
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 272
+        width: 28
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_21
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 261
+        width: 28
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_22
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 211
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_23
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 210
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 208
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_25
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 207
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_26
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 207
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_27
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 209
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_28
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 210
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_29
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 150
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_30
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 149
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_31
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 147
+        width: 74
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_32
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 143
+        width: 73
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_33
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 139
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_34
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 139
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_35
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 139
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 74
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_37
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 75
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_38
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 76
+        width: 74
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_39
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 77
+        width: 74
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_40
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 84
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_41
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 80
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_42
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 80
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_43
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 66
+        width: 74
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_44
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 13
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marcus_paladin_sword_45
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 13
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

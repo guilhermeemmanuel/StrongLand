@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrongLand.CSharp.Plugins", "StrongLand.CSharp.Plugins.csproj", "{93829B4F-A113-B049-7E5A-178F61E9DEB1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrongLand.CSharp", "StrongLand.CSharp.csproj", "{2BD24898-FE27-39EF-4BC9-D693E1530801}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrongLand.CSharp.Editor", "StrongLand.CSharp.Editor.csproj", "{0C5F19E2-58D5-B897-B98F-C309F4C41025}"
 EndProject
 Global
@@ -15,6 +17,10 @@ Global
 		{93829B4F-A113-B049-7E5A-178F61E9DEB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93829B4F-A113-B049-7E5A-178F61E9DEB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93829B4F-A113-B049-7E5A-178F61E9DEB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BD24898-FE27-39EF-4BC9-D693E1530801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD24898-FE27-39EF-4BC9-D693E1530801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BD24898-FE27-39EF-4BC9-D693E1530801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BD24898-FE27-39EF-4BC9-D693E1530801}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0C5F19E2-58D5-B897-B98F-C309F4C41025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0C5F19E2-58D5-B897-B98F-C309F4C41025}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C5F19E2-58D5-B897-B98F-C309F4C41025}.Release|Any CPU.ActiveCfg = Release|Any CPU

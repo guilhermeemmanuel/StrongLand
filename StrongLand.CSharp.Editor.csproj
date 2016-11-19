@@ -100,6 +100,10 @@
       <Project>{93829B4F-A113-B049-7E5A-178F61E9DEB1}</Project>
       <Name>StrongLand.CSharp.Plugins</Name>
     </ProjectReference>
+    <ProjectReference Include="StrongLand.CSharp.csproj">
+      <Project>{2BD24898-FE27-39EF-4BC9-D693E1530801}</Project>
+      <Name>StrongLand.CSharp</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
