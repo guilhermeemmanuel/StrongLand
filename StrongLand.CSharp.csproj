@@ -72,9 +72,12 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\AmmoController.cs" />
+    <Compile Include="Assets\Scripts\Behaviours\ShootBehaviour.cs" />
     <Compile Include="Assets\Scripts\CameraController.cs" />
     <Compile Include="Assets\Scripts\EnemyController.cs" />
     <Compile Include="Assets\Scripts\IA\SentinelController.cs" />
+    <Compile Include="Assets\Scripts\IA\SimpleArcherController.cs" />
     <Compile Include="Assets\Scripts\InputController.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
   </ItemGroup>
