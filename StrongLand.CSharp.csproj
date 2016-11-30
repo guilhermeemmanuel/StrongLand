@@ -76,6 +76,7 @@
     <Compile Include="Assets\Scripts\Behaviours\ShootBehaviour.cs" />
     <Compile Include="Assets\Scripts\CameraController.cs" />
     <Compile Include="Assets\Scripts\EnemyController.cs" />
+    <Compile Include="Assets\Scripts\GameController.cs" />
     <Compile Include="Assets\Scripts\IA\SentinelController.cs" />
     <Compile Include="Assets\Scripts\IA\SimpleArcherController.cs" />
     <Compile Include="Assets\Scripts\InputController.cs" />
