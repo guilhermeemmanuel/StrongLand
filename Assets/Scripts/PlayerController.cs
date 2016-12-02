@@ -13,6 +13,8 @@ public class PlayerController : MonoBehaviour {
 
     public GameController gameController;
 
+    public GameObject shieldObject;
+
 	// Use this for initialization
 	void Start () {
         gameController.setLifeText(life);
@@ -22,6 +24,17 @@ public class PlayerController : MonoBehaviour {
 	void Update () {
 
 	}
+
+    void OnTriggerEnter2D(Collider2D other) {
+        if (other.gameObject.tag.Equals("EnemyWeapon")) {
+            int damageReceived = other.gameObject.GetComponent<DamageDealer>().damage;
+            if(damageReceived > defense) {
+                life -= damageReceived - defense;
+                gameController.setLifeText(life);
+                Destroy(other.gameObject);
+            }
+        }
+    }
 
     public void move(float direction) {
         if (!GetComponent<Animator>().GetCurrentAnimatorStateInfo(0).IsTag("Attack") &&

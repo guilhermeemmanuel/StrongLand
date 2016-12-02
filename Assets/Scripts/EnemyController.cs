@@ -3,6 +3,9 @@ using System.Collections;
 
 public class EnemyController : MonoBehaviour {
 
+    //Possible values: 0, -1
+    public int direction = -1;
+
     public string state;
 
     public int life;

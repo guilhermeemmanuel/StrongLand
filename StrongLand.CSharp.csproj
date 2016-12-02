@@ -73,14 +73,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\AmmoController.cs" />
+    <Compile Include="Assets\Scripts\Behaviours\KnightAttackBehaviour.cs" />
+    <Compile Include="Assets\Scripts\Behaviours\KnightShieldBehaviour.cs" />
     <Compile Include="Assets\Scripts\Behaviours\ShootBehaviour.cs" />
     <Compile Include="Assets\Scripts\CameraController.cs" />
+    <Compile Include="Assets\Scripts\DamageDealer.cs" />
     <Compile Include="Assets\Scripts\EnemyController.cs" />
     <Compile Include="Assets\Scripts\GameController.cs" />
     <Compile Include="Assets\Scripts\IA\SentinelController.cs" />
     <Compile Include="Assets\Scripts\IA\SimpleArcherController.cs" />
     <Compile Include="Assets\Scripts\InputController.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\ShieldController.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />

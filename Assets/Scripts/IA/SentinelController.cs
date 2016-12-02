@@ -3,8 +3,6 @@ using System.Collections;
 
 public class SentinelController : MonoBehaviour {
 
-    public int direction = -1;
-
     private float passedTime;
 
     public float flipTime;
@@ -21,10 +19,9 @@ public class SentinelController : MonoBehaviour {
             passedTime += Time.deltaTime;
             if(passedTime >= flipTime) {
                 passedTime = 0;
-                direction = Mathf.Abs(direction) - 1;
-                Debug.Log(direction);
+                GetComponent<EnemyController>().direction = Mathf.Abs(GetComponent<EnemyController>().direction) - 1;
             }
-            GetComponent<Transform>().eulerAngles = Vector2.up * 180 * direction;
+            GetComponent<Transform>().eulerAngles = Vector2.up * 180 * GetComponent<EnemyController>().direction;
             GetComponent<Transform>().Translate(Vector2.right * Time.deltaTime);
         }
 	}

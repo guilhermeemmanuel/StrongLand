@@ -18,8 +18,9 @@ public class AmmoController : MonoBehaviour {
 	}
 
     public void shoot() {
-        Vector3 positionToInstantiate = new Vector3(transform.position.x + 0.5f, transform.position.y + 0.2f, transform.position.z);
-        GameObject fire = Instantiate(ammo, positionToInstantiate, Quaternion.identity) as GameObject;
-        fire.GetComponent<Rigidbody2D>().AddForce(Vector2.right * shootPower);
+        
+        Vector3 positionToInstantiate = new Vector3(transform.position.x + 0.5f * Mathf.Sign(GetComponent<EnemyController>().direction), transform.position.y + 0.2f, transform.position.z);
+        GameObject fire = Instantiate(ammo, positionToInstantiate, transform.rotation) as GameObject;
+        fire.GetComponent<Rigidbody2D>().AddForce(Vector2.right * shootPower * Mathf.Sign(GetComponent<EnemyController>().direction));
     }
 }
